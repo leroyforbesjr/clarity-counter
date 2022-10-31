@@ -1,0 +1,13 @@
+#V2
+(contract-call? .counter get-counter)
+(contract-call? .counter up)
+(contract-call? .counter down)
+(contract-call? .counter up)
+(contract-call? .counter down)
+(contract-call? .counter dec-up)
+(contract-call? .counter get-counter)
+(contract-call? .counter up)
+(contract-call? .counter down)
+(contract-call? .counter dec-up)
+(contract-call? .counter dec-down)
+(contract-call? .counter dec-up)
